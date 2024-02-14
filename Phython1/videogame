@@ -16,6 +16,8 @@ if user_input == 's':
   stick = 'st'
   cave = 'c'
   user_input = input("Enter your answer: ")
+elif user_input != 's':
+  print("Goodbye")
 if user_input == 'm':
   print("You are in the mountain")
   print("You can go to the cave or the forest")
@@ -45,3 +47,7 @@ if user_input == 'st':
   stick = 'st'
   cave = 'c'
   user_input = input("Enter your answer: ")
+if user_input == 'i':
+  if user have a stick:
+    print("You have a stick")
+  
