@@ -3,3 +3,4 @@
  # Malo
  # Adrien
 # Our objective would be to create something like terminus
+The 3 class
