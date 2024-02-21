@@ -1,7 +1,12 @@
 # Groupe_project n_1
-Le projet sera une sorte de clone de Terminus. Le joueur arrivera dans un monde, et pourra voyager dans le mode en tapant les bonnes touches qui seront propose par les commandes decrite dans le jeu. Le joueur pourra egalement trouver des items qui l'aideront a explorer le monde.
+The project will be a sort of clone of Terminus. The player will arrive in a world, and will be able to travel in the mode by tapping the right keys which will be proposed by the commands described in the game. The player will also be able to find items which will help him to explore the world.
 # Members
  # Malo
  # Adrien
-# Our objective would be to create something like terminus
-The 3 class
+# Our objective 
+Our objectives are:
+- Insert images into the game
+- Have working object classes
+- Have an environment to interact with
+- Have a game that works
+
