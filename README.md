@@ -10,3 +10,5 @@ Our objectives are:
 - Have an environment to interact with
 - Have a game that works
 
+# This is our plan
+!
