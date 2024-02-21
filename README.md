@@ -1,4 +1,5 @@
 # Groupe_project n_1
-Video_game
-print"Welcome to your new repository"
-
+Members
+ Malo
+ Adrien
+ #Our objective would be to create something like terminus
