@@ -1,5 +1,5 @@
 # Mountain
-The project will be a sort of clone of Terminus. The player will arrive in a world, and will be able to travel in the mode by tapping the right keys which will be proposed by the commands described in the game. The player will also be able to find items which will help him to explore the world.
+The name of the project is Mountain. The project will be a sort of clone of Terminus. The player will arrive in a world, and will be able to travel in the mode by tapping the right keys which will be proposed by the commands described in the game. The player will also be able to find items which will help him to explore the world.
 # Members
  # Malo
  # Adrien
