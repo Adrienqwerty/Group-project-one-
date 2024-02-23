@@ -11,5 +11,5 @@ Our objectives are:
 - Have a game that works
 
 # This is our plan
-![Gameplay]()
-[Source Code]()
+![ClassDiagram](https://github.com/Adrienqwerty/GroupeProjectNumberOne/blob/main/Screenshot%202024-02-21%20at%2012.35.00%20PM.png?raw=true)
+
