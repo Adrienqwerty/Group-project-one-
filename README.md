@@ -11,4 +11,5 @@ Our objectives are:
 - Have a game that works
 
 # This is our plan
-!
+![Gameplay]()
+[Source Code]()
