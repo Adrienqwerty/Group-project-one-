@@ -3,6 +3,7 @@ The name of the project is Mountain. The project will be a sort of clone of Term
 # Members
  # Malo
  # Adrien
+ 
 # Our objective 
 Our objectives are:
 - Insert images into the game
