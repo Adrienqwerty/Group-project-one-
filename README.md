@@ -12,4 +12,5 @@ Our objectives are:
 
 ## This is our plan
 ![ClassDiagram](https://github.com/Adrienqwerty/GroupeProjectNumberOne/blob/main/IMG/Screenshot%202024-02-21%20at%2012.35.00%20PM.png?raw=true)
-[Source Code](https://github.com/Adrienqwerty/GroupeProjectNumberOne/tree/main/Src/Mountain%202)
+## This is the source code
+[Source Code](https://github.com/Adrienqwerty/GroupeProjectNumberOne/tree/main/Src#:~:text=last%20week-,Mountain%20(1).zip,-Add%20files%20via)
